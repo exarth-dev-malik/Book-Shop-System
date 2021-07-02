@@ -1,0 +1,11 @@
+F:\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+F:\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+F:\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+F:\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csprojAssemblyReference.cache
+F:\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+F:\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+F:\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.cache
+F:\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.CoreCompileInputs.cache
+F:\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+F:\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
+F:\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
